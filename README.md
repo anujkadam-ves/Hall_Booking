@@ -101,6 +101,17 @@ The frontend application will start on `http://localhost:3000` by default.
 2. Use the form to submit a new booking.
 3. View, update, or delete bookings from the booking list.
 
+## Screenshots
+
+### Booking Form
+![Booking Form]([screenshots/booking_form.png](https://github.com/anujkadam-ves/Hall_Booking/blob/main/Screenshot%202024-12-30%20121432.png?raw=true))
+
+### Booking Form Page 2
+![Booking List]([screenshots/booking_list.png](https://github.com/anujkadam-ves/Hall_Booking/blob/main/Screenshot%202024-12-30%20121535.png?raw=true))
+
+### Booking List with Update & Delete options
+![Update Booking]([screenshots/update_booking.png](https://github.com/anujkadam-ves/Hall_Booking/blob/main/Screenshot%202024-12-30%20122737.png?raw=true))
+
 ## Deployment
 
 For production deployment:
