@@ -106,8 +106,9 @@ The frontend application will start on `http://localhost:3000` by default.
 ### Booking Form
 ![Screenshot 2024-12-30 121432](https://github.com/user-attachments/assets/cfd70ae8-8d9e-41ef-ab51-12caf2f78cd6)
 
-### Booking Form Page 2
-![Screenshot 2024-12-30 121535](https://github.com/user-attachments/assets/8f88bffc-d9b0-4f6e-a161-14815f3e4404)
+### Add New
+![Screenshot 2024-12-30 131724](https://github.com/user-attachments/assets/f0bb46f0-3f94-41ee-9923-3712e5f18e83)
+![Screenshot 2024-12-30 131555](https://github.com/user-attachments/assets/708cd02b-847e-420a-9424-a854c05e522c)
 
 ### Booking List with Update & Delete options
 ![Screenshot 2024-12-30 122737](https://github.com/user-attachments/assets/260beb55-fe4c-46fa-9dde-9fc0ea49f779)
