@@ -131,7 +131,3 @@ For production deployment:
 - **Database connection issues**: Verify the PostgreSQL server is running and the connection details are correct in `application.properties`.
 - **Backend not starting**: Check the logs for missing dependencies or configuration errors.
 - **Frontend not loading**: Ensure the React development server is running and the API base URL is correctly set in `.env`.
-
-## License
-
-This project is licensed under the MIT License.
