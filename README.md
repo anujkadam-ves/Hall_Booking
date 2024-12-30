@@ -104,13 +104,13 @@ The frontend application will start on `http://localhost:3000` by default.
 ## Screenshots
 
 ### Booking Form
-![Booking Form]([screenshots/booking_form.png](https://github.com/anujkadam-ves/Hall_Booking/blob/main/Screenshot%202024-12-30%20121432.png?raw=true))
+![Screenshot 2024-12-30 121432](https://github.com/user-attachments/assets/cfd70ae8-8d9e-41ef-ab51-12caf2f78cd6)
 
 ### Booking Form Page 2
-![Booking Form_Page_2]([screenshots/booking_list.png](https://github.com/anujkadam-ves/Hall_Booking/blob/main/Screenshot%202024-12-30%20121535.png?raw=true))
+![Screenshot 2024-12-30 121535](https://github.com/user-attachments/assets/8f88bffc-d9b0-4f6e-a161-14815f3e4404)
 
 ### Booking List with Update & Delete options
-(![Screenshot 2024-12-30 122737](https://github.com/user-attachments/assets/260beb55-fe4c-46fa-9dde-9fc0ea49f779)
+![Screenshot 2024-12-30 122737](https://github.com/user-attachments/assets/260beb55-fe4c-46fa-9dde-9fc0ea49f779)
 
 ## Deployment
 
